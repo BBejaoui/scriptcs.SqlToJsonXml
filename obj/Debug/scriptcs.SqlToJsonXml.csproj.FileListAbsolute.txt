@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\SharpDevelop Projects\ScriptcsPack\scriptcs.SqlToJsonXml\obj\Debug\scriptcs.SqlToJsonXml.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\ScriptcsPack\scriptcs.SqlToJsonXml\bin\Debug\scriptcs.SqlToJsonXml.dll.config
+C:\Users\Administrator\Documents\SharpDevelop Projects\ScriptcsPack\scriptcs.SqlToJsonXml\bin\Debug\scriptcs.SqlToJsonXml.dll
+C:\Users\Administrator\Documents\SharpDevelop Projects\ScriptcsPack\scriptcs.SqlToJsonXml\bin\Debug\scriptcs.SqlToJsonXml.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\ScriptcsPack\scriptcs.SqlToJsonXml\bin\Debug\ScriptCs.Contracts.dll
+C:\Users\Administrator\Documents\SharpDevelop Projects\ScriptcsPack\scriptcs.SqlToJsonXml\obj\Debug\scriptcs.SqlToJsonXml.dll
+C:\Users\Administrator\Documents\SharpDevelop Projects\ScriptcsPack\scriptcs.SqlToJsonXml\obj\Debug\scriptcs.SqlToJsonXml.pdb
